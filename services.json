@@ -220,6 +220,11 @@
         "host": "smtp.163.com",
         "port": 465,
         "secure": true
+    },
+    "aliyun": {
+        "host": "smtp.mxhichina.com",
+        "port": 465,
+        "secure": true
     }
-
+    
 }
